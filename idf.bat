@@ -1,0 +1,3 @@
+@ECHO OFF
+SET IDF_PATH=%ESP8266_IDF_PATH%
+python %ESP8266_IDF_PATH%\tools\idf.py %*
