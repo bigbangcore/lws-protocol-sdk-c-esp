@@ -3,3 +3,6 @@ build
 *.log
 *.tmp
 *.old
+
+
+.vscode
