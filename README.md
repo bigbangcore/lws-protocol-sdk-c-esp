@@ -2,7 +2,8 @@
 
 ## 目录结构说明
 
-* `components/lws-iot-esp` 实际的 LWS IoT SDK 库源码
+* `components/lws-iot-esp`：实际的 LWS IoT SDK 库源码
+* `main`：演示调用程序
 
 ## 安装配置 
 
