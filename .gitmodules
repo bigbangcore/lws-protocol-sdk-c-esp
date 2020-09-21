@@ -1,0 +1,3 @@
+[submodule "components/lws-iot-esp/lws-protocol-sdk-c"]
+	path = components/lws-iot-esp/lws-protocol-sdk-c
+	url = https://github.com/bigbangcore/lws-protocol-sdk-c.git

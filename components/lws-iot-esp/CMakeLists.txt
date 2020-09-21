@@ -1,9 +1,9 @@
 FILE(GLOB_RECURSE LWS_IOT_SOURCES 
-    "./src/*.c" 
-    "./src/*.cpp" 
+    "./lws-protocol-sdk-c/*.c" 
+    "./lws-protocol-sdk-c/*.cpp" 
 )
 
-SET(LWS_IOT_INCLUDE_DIRS "./include")
+SET(LWS_IOT_INCLUDE_DIRS "./lws-protocol-sdk-c")
 
 
 idf_component_register(
